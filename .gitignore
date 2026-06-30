@@ -1,0 +1,22 @@
+# Raw dataset (license + size — never commit)
+ISRUC-Sleep-III/
+
+# Generated data files
+isruc_data.npz
+isruc_features.npz
+
+# Generated files
+*.npz
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
